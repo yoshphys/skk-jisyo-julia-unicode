@@ -41,5 +41,7 @@ deno run --allow-read --allow-write build.ts  # generate dist/
 
 ## License
 
-The dictionary data is derived from Julia's `REPL.REPLCompletions` module and is
-subject to the [MIT License](https://github.com/JuliaLang/julia/blob/master/LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
+
+The dictionary data is derived from Julia's `REPL.REPLCompletions` module,
+which is also distributed under the MIT License.
